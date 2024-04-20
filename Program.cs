@@ -6,6 +6,10 @@ namespace Prog120_S24_L6_Loops
     {
         static void Main(string[] args)
         {
+            // Vicky Le
+            // Programming 120
+            // 4/18/24
+            
             string student1Name = "Coby";
             string student2Name = "Hoang";
             string student3Name = "Vicky";
